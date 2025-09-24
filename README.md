@@ -6,6 +6,6 @@
 [![Website](https://img.shields.io/badge/-radityarise.my.id-red?style=flat-square&labelColor=gray&logo=googlechrome&logoColor=white&link=https://radityarise.my.id/)](https://radityarise.my.id)
 [![Spotify](https://img.shields.io/badge/-radib-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/jq8jqs2zl5wrff86ko6ep9e04?si=aa6e82b0537f4b0c)](https://open.spotify.com/user/jq8jqs2zl5wrff86ko6ep9e04?si=aa6e82b0537f4b0c)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=radityprtama&theme=minimal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityprtama&layout=compact&theme=default)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=radityprtama.radityprtama)
