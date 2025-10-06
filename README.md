@@ -1,6 +1,6 @@
 ### Hello world 🖖
 
-My name is Raditya Alia Pratama
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityprtama&layout=compact&theme=default)
 
