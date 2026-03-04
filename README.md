@@ -1,4 +1,5 @@
 ### Hello world 🖖
-![Top Langs](https://stats.orbin.my.id/api/top-langs/?username=radityprtama&layout=compact&theme=default)
+
+[![Visit Repolith](https://img.shields.io/badge/🚀%20Try%20Repolith-repolith.my.id-0f0f0f?style=for-the-badge&logoColor=white)](https://repolith.my.id/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=radityprtama.radityprtama)
